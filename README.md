@@ -1,7 +1,6 @@
-# Breath-Classification
+Current files contain CNN, LSTMs and SVMs. 
 
-# Current Progress
+To do 
 
-Achieved 67% accuracy on dataset of 150 samples(100 normal, 50 slow).
-
-# Further improvements incoming very  soon to increase accuracy. Stay tuned.
+KNN
+ANN
